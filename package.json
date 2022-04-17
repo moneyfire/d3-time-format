@@ -38,8 +38,8 @@
     "./src/defaultLocale.js"
   ],
   "dependencies": {
-    "d3-array": "ssh://git@github.com:moneyfire/d3-array#main",
-    "d3-time": "ssh://git@github.com:moneyfire/d3-time#main"
+    "@moneyfire/d3-array": "3.0.3",
+    "@moneyfire/d3-time": "3.0.1"
   },
   "devDependencies": {
     "eslint": "7",
